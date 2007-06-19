@@ -30,7 +30,7 @@
 <table width="100%" >
   <tr valign="top" >
     <td width="200" class="sideTabs" style="padding-left:15px;padding-top:20px;">
-      <gm:list id="projList" data="${dane}" template="projForm">
+      <gm:list id="projList" data="${app}" template="projForm">
       <!-- 
         <gm:list id="projList" data="${user}/projects2" template="projForm"> 
       -->
