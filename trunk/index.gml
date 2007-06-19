@@ -1,4 +1,4 @@
-<gm:page title="Lista zadan" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="false">
+<gm:page title="Lista zadan" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="true">
  
   <!-- The advanced task list application is a simple task list that stores
        tasks per user in the ${user} feed. The application uses hierarchy to 
