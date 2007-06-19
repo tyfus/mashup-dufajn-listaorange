@@ -1,4 +1,4 @@
-<gm:page title="Google Lists" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="true">
+<gm:page title="Lista zadan" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="true">
  
   <!-- The advanced task list application is a simple task list that stores
        tasks per user in the ${user} feed. The application uses hierarchy to 
@@ -96,7 +96,7 @@
    <table width="100%" style="margin-top:4em" >
     <tr>
      <td colspan="7" style="background-color:#C3D9FF;padding:5px;height:30px;-moz-border-radius: 0 0 4 4" >
-        <gm:create label="New Task"/>
+        <gm:create label="Nowe zadanie"/>
      </td>
     </tr>
   </table>
