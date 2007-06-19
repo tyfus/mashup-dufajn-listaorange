@@ -1,4 +1,4 @@
-<gm:page title="Lista zadan" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="true">
+<gm:page title="Lista zadan" class="tasksTheme" css="http://tasklist.googlemashups.com/resources/tasklist.css" authenticate="false">
  
   <!-- The advanced task list application is a simple task list that stores
        tasks per user in the ${user} feed. The application uses hierarchy to 
@@ -30,7 +30,10 @@
 <table width="100%" >
   <tr valign="top" >
     <td width="200" class="sideTabs" style="padding-left:15px;padding-top:20px;">
-      <gm:list id="projList" data="${user}/projects2" template="projForm">
+      <gm:list id="projList" data="${dane}" template="projForm">
+      <!-- 
+        <gm:list id="projList" data="${user}/projects2" template="projForm"> 
+      -->
         <gm:handleEvent event="select" execute="onSelect(this.object);"/>
       </gm:list>
     </td>
