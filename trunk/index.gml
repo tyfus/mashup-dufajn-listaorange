@@ -62,7 +62,7 @@
   <table width="100%">
     <tr>
       <td colspan="7" height="30px" style="background-color:#C3D9FF;padding:5px;height:30px;-moz-border-radius: 4 4 0 0;">
-        <gm:create label="New Task"/>
+        <gm:create label="Nowe zadanie"/>
       </td>
     </tr>
    </table>
@@ -71,7 +71,7 @@
         <td width="20" class="gm-header"></td>
           <td width="75" class="gm-header">Zrobione</td>
           <td width="100" class="gm-header">Do</td>
-          <td class="gm-header">Zadaniek</td>
+          <td class="gm-header">Zadanie</td>
           <td width="150" nowrap="true" class="gm-header">Wykonuje</td>
           <td width="100" class="gm-header">Priorytet</td>
           <td width="60" class="gm-header"></td>
@@ -91,7 +91,7 @@
         </tr>
      </tbody>
   </table>
-  <div id="message" style="text-align:center;color:gray;margin-top:4em;">Click a list to see the tasks or create a new task list</div>
+  <div id="message" style="text-align:center;color:gray;margin-top:4em;">Problemy prosze zglaszac mailem.</div>
 
    <table width="100%" style="margin-top:4em" >
     <tr>
