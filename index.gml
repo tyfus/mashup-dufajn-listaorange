@@ -45,7 +45,7 @@
 </table>
 
 <gm:template id="projForm">
-  <gm:create label="New Task List"/>
+  <gm:create label="Zadanie"/>
    <div style="padding-top:10px;">
    <table width="100%">
      <tbody repeat="true">
@@ -69,11 +69,11 @@
    <table width="100%">
       <tr width="100%">
         <td width="20" class="gm-header"></td>
-          <td width="75" class="gm-header">Done</td>
-          <td width="100" class="gm-header">Due</td>
-          <td class="gm-header">Task</td>
-          <td width="150" nowrap="true" class="gm-header">Assigned To</td>
-          <td width="100" class="gm-header">Priority</td>
+          <td width="75" class="gm-header">Zrobione</td>
+          <td width="100" class="gm-header">Do</td>
+          <td class="gm-header">Zadaniek</td>
+          <td width="150" nowrap="true" class="gm-header">Wykonuje</td>
+          <td width="100" class="gm-header">Priorytet</td>
           <td width="60" class="gm-header"></td>
      </tr>
      <tbody repeat="true" width="100%">
