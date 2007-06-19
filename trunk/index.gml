@@ -39,7 +39,7 @@
     </td>
     <td style="padding-right:15px;padding-top:20px;">
       <div id="taskContainer">
-        <gm:list id="taskList" data="${projList}/tasks" template="taskForm">
+        <gm:list id="taskList" data="${app}/tasks" template="taskForm">
           <gm:handleEvent src="projList"/>
         </gm:list>
        </div>
