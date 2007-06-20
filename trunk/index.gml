@@ -87,7 +87,8 @@
          <td class="gm-item"><gm:text ref="atom:title" gm-focus="true"/></td>
          <td width="150" class="gm-item"><gm:text ref="gd:assignedTo/@email"/></td>
          <td width="100" class="gm-item"><gm:rating ref="gd:priority"/></td>
-         <td width="60" class="gm-item"><gm:editButtons/></td>
+         <td width="60" class="gm-item"><gm:editButtons deleteonly="true"/></td>
+         <!-- <td><gm:editButtons deleteonly="true"/></td> -->
         </tr>
         <tr class="gm-toggled" width="100%">
           <td colspan="7" class="gm-item"><gm:textarea ref="atom:content" style="white-space:pre"/></td>
