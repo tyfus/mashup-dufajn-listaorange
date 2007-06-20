@@ -54,7 +54,7 @@
      <tbody repeat="true">
        <tr>
          <td width="160" style="padding:5px:"><gm:text style="width:140px;color:blue;text-decoration:underline;" ref="atom:title"/></td>
-         <td width="40" style="padding:5px:" nowrap="true"><gm:editButtons class="gm-select-only"/></td>
+         <td width="40" style="padding:5px:" nowrap="true"><gm:editButtons editonly="true" class="gm-select-only"/></td>
        </tr>
      </tbody>
     </table>
