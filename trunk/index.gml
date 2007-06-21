@@ -88,8 +88,8 @@
          <td width="150" class="gm-item"><gm:autoComplete ref="atom:title" data="http://dufajn.googlepages.com/test2.xml" value="title" /></td>
          <!--
          <gm:text ref="gd:assignedTo/@email"/>
-         <gm:autoComplete ref="atom:title" data="http://dufajn.googlepages.com/test2.xml" value="title" /> -->
-         
+         <gm:autoComplete ref="atom:title" data="http://dufajn.googlepages.com/test2.xml" value="title" /> 
+         -->
          <td width="100" class="gm-item"><gm:rating ref="gd:priority"/></td>
          <td width="60" class="gm-item"><gm:editButtons editonly="true"/></td>
          <!-- <td><gm:editButtons deleteonly="true"/></td> -->
