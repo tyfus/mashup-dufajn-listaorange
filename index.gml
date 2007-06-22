@@ -105,5 +105,6 @@ document.getElementById("taskContainer"); if (div.style.display ==
 "none"){ div.style.display ="block"; } var div2 =
 document.getElementById("message"); div2.style["display"] = "none";
 }
+
 </script>
 </gm:page>
